@@ -248,15 +248,149 @@ body::before{
 
 <script>
 
-const songs=[];
-for(let i=1;i<=15;i++){
-    songs.push({
-        title:"Song "+i,
-        artist:"Artist "+i,
-        file:"song"+i+".mp3",
-        cover:"cover"+i+".jpg"
-    });
+const songs = [
+
+{
+ title: "Aakhiyan Da Jadu",
+ artist: "Romy",
+ file: "aakhiyan.mp3",
+ cover: "aakhiyan.jpg"
+},
+
+{
+ title: "Naina",
+ artist: "Arijit Singh",
+ file: "naina.mp3",
+ cover: "naina.jpg"
+},
+
+{
+ title: "Jogi",
+ artist: "Yasser Desai & Aakanksha Sharma",
+ file: "jogi.mp3",
+ cover: "jogi.jpg"
+},
+
+{
+ title: "Naadaniyan",
+ artist: "Akshath Acharya",
+ file: "naadaniyan.mp3",
+ cover: "naadaniyan.jpg"
+},
+
+{
+ title: "Kabhi Kabhi Aditi",
+ artist: "Rashid Ali",
+ file: "kabhi.mp3",
+ cover: "kabhi.jpg"
+},
+
+{
+ title: "Dil Nu",
+ artist: "AP Dhillon",
+ file: "dilnu.mp3",
+ cover: "dilnu.jpg"
+},
+
+{
+ title: "Thinking of You",
+ artist: "Katy Perry",
+ file: "thinking.mp3",
+ cover: "thinking.jpg"
+},
+
+{
+ title: "By My Side",
+ artist: "AP Dhillon",
+ file: "bymyside.mp3",
+ cover: "bymyside.jpg"
+},
+
+{
+ title: "Us",
+ artist: "Sidhu Moosewala & Raja Kumari",
+ file: "us.mp3",
+ cover: "us.jpg"
+},
+
+{
+ title: "Sajjan Raji",
+ artist: "Satinder Sartaaj",
+ file: "sajjan.mp3",
+ cover: "sajjan.jpg"
+},
+
+{
+ title: "Aarzu",
+ artist: "Arijit Singh",
+ file: "aarzu.mp3",
+ cover: "aarzu.jpg"
+},
+
+{
+ title: "Jind Mahi",
+ artist: "Diljit Dosanjh",
+ file: "jindmahi.mp3",
+ cover: "jindmahi.jpg"
+},
+
+{
+ title: "Saibo",
+ artist: "Shreya Ghoshal & Tochi Raina",
+ file: "saibo.mp3",
+ cover: "saibo.jpg"
+},
+
+{
+ title: "Sooiyan Sooiyan",
+ artist: "Arijit Singh & Chinmayi",
+ file: "sooiyan.mp3",
+ cover: "sooiyan.jpg"
+},
+
+{
+ title: "9:45",
+ artist: "Prabh Singh & Jay Trak",
+ file: "945.mp3",
+ cover: "945.jpg"
+},
+
+{
+ title: "Bargad",
+ artist: "The Local Train",
+ file: "bargad.mp3",
+ cover: "bargad.jpg"
+},
+
+{
+ title: "Zulfein",
+ artist: "Anuv Jain",
+ file: "zulfein.mp3",
+ cover: "zulfein.jpg"
+},
+
+{
+ title: "Vaaroon",
+ artist: "Anuv Jain",
+ file: "vaaroon.mp3",
+ cover: "vaaroon.jpg"
+},
+
+{
+ title: "Ishqaa Ve",
+ artist: "Arijit Singh",
+ file: "ishqaa.mp3",
+ cover: "ishqaa.jpg"
+},
+
+{
+ title: "Chaand Baaliyan",
+ artist: "Aditya A",
+ file: "chaand.mp3",
+ cover: "chaand.jpg"
 }
+
+];
 
 const playlist=document.getElementById("playlist");
 const audio=document.getElementById("audio");
