@@ -229,6 +229,12 @@
     "cover": "paaro.jpg"
   },
   {
+    "title": "PREET RE",
+    "artist": "Darshan Raval ,Rochak Kohli ",
+    "file": "preet_re.mp3",
+    "cover": "preet_re.jpg"
+  },
+  {
     "title": "QAAFIRANA",
     "artist": "Arijit Singh & Nikhita Gandhi",
     "file": "qaafirana.mp3",
@@ -301,4 +307,5 @@
     "cover": "945.jpg"
   }
 ]
+
 
