@@ -96,6 +96,18 @@
     "file": "do_pall.mp3",
     "cover": "do_pall.jpg"
   },
+   {
+    "title": "FALANI",
+    "artist": "Vikram sarkar,Guri Nimana",
+    "file": "falani.mp3",
+    "cover": "falani.jpg"
+  },
+  {
+    "title": "HAAYE RE",
+    "artist": "banjaare",
+    "file": "haaye_re.mp3",
+    "cover": "haaye_re.jpg"
+  },
   {
     "title": "HOSANNA",
     "artist": "A.R. Rahman, Vijay Prakash & Suzanne D'Mello",
@@ -289,3 +301,4 @@
     "cover": "945.jpg"
   }
 ]
+
