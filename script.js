@@ -96,8 +96,6 @@ audio.addEventListener("timeupdate", () => {
   timeDisplay.innerText = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
 });
 
-// Auto next song
-audio.addEventListener("ended", nextSong);
 
 // Seek function
 function seek(e) {
@@ -191,4 +189,5 @@ function updateTimeDisplay(){
     const durSeconds = Math.floor(audio.duration % 60).toString().padStart(2,'0');
     timeDisplay.innerText = `${curMinutes}:${curSeconds} / ${durMinutes}:${durSeconds}`;
 }
+
 
