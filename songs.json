@@ -102,6 +102,14 @@
     "file": "falani.mp3",
     "cover": "falani.jpg"
   },
+
+  {
+    "title": "FAASLE",
+    "artist": "Aaditya Rikhari",
+    "file": "faasle.mp3",
+    "cover": "faasle.jpg"
+  },
+ 
   {
     "title": "HAAYE RE",
     "artist": "banjaare",
@@ -150,6 +158,14 @@
     "file": "ishq_sufiyana.mp3",
     "cover": "ishq_sufiyana.jpg"
   },
+
+  {
+    "title": "JAAN NISAR",
+    "artist": "Arijit Singh",
+    "file": "jaan_nisar.mp3",
+    "cover": "jaan_nisar.jpg"
+  },
+ 
   {
     "title": "JIND MAHI",
     "artist": "Harneet Singh Sethi (Ft. Johal MuSick)",
@@ -180,6 +196,21 @@
     "file": "kali_kali_zulfon_ke.mp3",
     "cover": "kali_kali_zulfon_ke.jpg"
   },
+
+   {
+    "title": "KITAB",
+    "artist": "Mr Dutt, Vipin Foji",
+    "file": "kitab.mp3",
+    "cover": "kitab.jpg"
+  },
+
+  {
+    "title": "KITSE",
+    "artist": "NYN Music",
+    "file": "kitse.mp3",
+    "cover": "kitse.jpg"
+  },
+ 
   {
     "title": "KHUDAYA KHAIR",
     "artist": "Billu Barber (Monali Thakur & Soham)",
@@ -192,6 +223,14 @@
     "file": "laavan.mp3",
     "cover": "laavan.jpg"
   },
+
+ {
+    "title": "LAMHA LAMHA ",
+    "artist": "Goldie Sohel, Vishi Jaiswal",
+    "file": "lamha_lamha.mp3",
+    "cover": "lamha_lamha.jpg"
+  },
+ 
   {
     "title": "MAIN GHAT BANARAS KA",
     "artist": "Arijit Singh",
@@ -246,6 +285,29 @@
     "file": "ratiyaan.mp3",
     "cover": "ratiyaan.jpg"
   },
+
+   {
+    "title": "RANJHA",
+    "artist": "Diljit Dosanjh",
+    "file": "ranjha.mp3",
+    "cover": "ranjha.jpg"
+  },
+
+   {
+    "title": "SARANGI",
+    "artist": "Sushant KC",
+    "file": "sarangi.mp3",
+    "cover": "sarangi.jpg"
+  }
+
+  {
+    "title": "SARGHOSHI",
+    "artist": "Ahsan Javed",
+    "file": "sarghoshi.mp3",
+    "cover": "sarghoshi.jpg"
+  },
+ 
+ 
   {
     "title": "SOHNA PHUL",
     "artist": "Harsh Nussi & Deep Khair",
@@ -257,6 +319,13 @@
     "artist": "Arijit Singh & Chinmayi",
     "file": "sooiyan.mp3",
     "cover": "sooiyan.jpg"
+  },
+
+  {
+    "title": "SUNDARI",
+    "artist": "Ankit Kadyan",
+    "file": "sundari.mp3",
+    "cover": "sundari.jpg"
   },
   {
     "title": "TERE BINA",
