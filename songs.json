@@ -243,6 +243,12 @@
     "file": "main_tera_ho_gaya.mp3",
     "cover": "main_tera_ho_gaya.jpg"
   },
+ {
+    "title": "MAI NHI MERIYE",
+    "artist": "Mohit Chauhan",
+    "file": "mai_nhi_meriye.mp3",
+    "cover": "mai_nhi_meriye.jpg"
+  },
   {
     "title": "MERA YAAR",
     "artist": "Shankar-Ehsaan-Loy",
@@ -327,6 +333,13 @@
     "file": "sundari.mp3",
     "cover": "sundari.jpg"
   },
+ {
+    "title": "SUMMER HIGH",
+    "artist": "AP Dhillon",
+    "file": "summer_high.mp3",
+    "cover": "summer_high.jpg"
+  },
+ 
   {
     "title": "TERE BINA",
     "artist": "A.R. Rahman, Chinmayi",
