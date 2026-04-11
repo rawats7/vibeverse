@@ -196,7 +196,13 @@
     "file": "kali_kali_zulfon_ke.mp3",
     "cover": "kali_kali_zulfon_ke.jpg"
   },
-
+   {
+    "title": "KHAT",
+    "artist": "Navjot Ahuja",
+    "file": "khat.mp3",
+    "cover": "khat.jpg"
+  },
+ 
    {
     "title": "KITAB",
     "artist": "Mr Dutt, Vipin Foji",
@@ -312,7 +318,13 @@
     "file": "sarghoshi.mp3",
     "cover": "sarghoshi.jpg"
   },
- 
+
+  {
+    "title": "SAWAAL",
+    "artist": "Abhijit Srivastava",
+    "file": "sawaal.mp3",
+    "cover": "sawaal.jpg"
+  },
  
   {
     "title": "SOHNA PHUL",
@@ -333,12 +345,28 @@
     "file": "sundari.mp3",
     "cover": "sundari.jpg"
   },
+
+   {
+    "title": "SUNFLOWER",
+    "artist": "Prabh Singh",
+    "file": "sunflower.mp3",
+    "cover": "sunflower.jpg"
+  },
+ 
  {
     "title": "SUMMER HIGH",
     "artist": "AP Dhillon",
     "file": "summer_high.mp3",
     "cover": "summer_high.jpg"
   },
+
+  {
+    "title": "TAREEFAN",
+    "artist": "Roop",
+    "file": "tareefan.mp3",
+    "cover": "tareefan.jpg"
+  },
+ 
  
   {
     "title": "TERE BINA",
